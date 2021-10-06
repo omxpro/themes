@@ -2,7 +2,9 @@
     "manifest": {
         "version": "1.9.1",
         "name": "The Sunset",
-        "author": "OmxproYT#1165"
+        "author": "OmxproYT#1165",
+        "updater": "https:\/\/raw.githubusercontent.com\/omxpro\/the-sunset\/main\/The_Sunset.json",
+        "license": "MIT"
     },
     "background": {
         "url": "https:\/\/github.com\/omxpro\/the-sunset\/raw\/main\/images_7-mitchell.jpg",
